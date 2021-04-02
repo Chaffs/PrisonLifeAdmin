@@ -6,7 +6,7 @@
 
 <footer>
   <div>
-    ## Okay
+    ## Okaygy
   </div>
 </footer>
   
